@@ -1,1 +1,2 @@
 Hello from test 2 file
+We want just to edit it :p
